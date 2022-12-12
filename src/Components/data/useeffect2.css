@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(43, 85, 99);
+}
+.bg{
+    position: absolute;
+    bottom: 40%;
+    left: 50%;
+}
